@@ -30,6 +30,7 @@
     "@babel/preset-typescript": "^7.14.5",
     "@testing-library/react": "^12.0.0",
     "@testing-library/react-hooks": "^7.0.1",
+    "@types/estree": "^0.0.50",
     "@types/jest": "^26.0.24",
     "@types/leaflet": "^1.7.4",
     "@types/react": "^17.0.15",
